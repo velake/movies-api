@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "movies.api", "movies.api\movies.api.csproj", "{10B0E866-3D44-4089-80E2-ED053C4CBA6E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "movies.api.Tests", "movies.api.Tests\movies.api.Tests.csproj", "{F821E906-7E6C-44A1-A3E9-EAD3738B0690}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10B0E866-3D44-4089-80E2-ED053C4CBA6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10B0E866-3D44-4089-80E2-ED053C4CBA6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10B0E866-3D44-4089-80E2-ED053C4CBA6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10B0E866-3D44-4089-80E2-ED053C4CBA6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F821E906-7E6C-44A1-A3E9-EAD3738B0690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F821E906-7E6C-44A1-A3E9-EAD3738B0690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F821E906-7E6C-44A1-A3E9-EAD3738B0690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F821E906-7E6C-44A1-A3E9-EAD3738B0690}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7D1B49C-B44D-4A8D-8340-485A2C4BBAFC}
+	EndGlobalSection
+EndGlobal
